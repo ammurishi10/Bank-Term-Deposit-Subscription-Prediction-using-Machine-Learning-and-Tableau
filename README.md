@@ -18,7 +18,8 @@ This dashboard is part of a machine learning project focused on predicting wheth
 
 ## 📂 Data Source
 
-- **Kaggle:** [Bank Marketing Dataset](https://www.kaggle.com/datasets)
+- **Kaggle:** [Bank Marketing Dataset](https://www.kaggle.com/code/janiobachmann/bank-marketing-campaign-opening-a-term-deposit/input)
+
 
 ---
 
