@@ -13,13 +13,13 @@ The dashboard was built using the following tools and technologies:
 DATA SOURCE:Kaggle(bank marketing dataset)
 
 FEATURES/HIGHLIGHTS
-• Business Problem
+• Business Problem:
 Predicting whether a customer will subscribe to a term deposit,helping banks run more targeted and cost-effective marketing campaigns.
 
-• Goal Of The Dashboard
+• Goal Of The Dashboard:
 The dashboard aims to visually communicate the performance of a machine learning model built to predict customer subscription to term deposits. It highlights key influencing factors such as job type, contact method, call duration, and month of contact, providing actionable insights for marketing teams. By combining predictive analytics with intuitive visuals, the dashboard supports data-driven decision-making for more effective and targeted banking campaigns.
 
-• Key Visuals and Insights
+• Key Visuals and Insights:
 
 Actual vs Predicted Chart:
 Description: Compares the model’s predictions against actual outcomes.
